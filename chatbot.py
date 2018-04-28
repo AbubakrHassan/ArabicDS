@@ -48,4 +48,4 @@ while True:
             else:
                 print("no such room", room)
         else:
-            print("I'm not yet designed to handle your request")
+            print("I'm not yet designed to handle this request")
